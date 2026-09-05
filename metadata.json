@@ -1,0 +1,6 @@
+{
+  "name": "Booked & Busy PRO",
+  "description": "An appointment, income, and rebooking tracker for solo beauty professionals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
